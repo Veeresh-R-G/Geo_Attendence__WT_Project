@@ -1,0 +1,370 @@
+.App {
+  text-align: center;
+}
+
+.navbar {
+  background-color: black;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  font-size: 20px;
+  font-weight: bolder;
+}
+.navlinks a {
+  margin: 20px 50px 20px 50px;
+  color: white;
+  text-decoration: none;
+  transition: 1s;
+}
+
+.navlinks a:hover {
+  color: #000;
+  background-color: white;
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.HomePage {
+  height: 689px;
+  width: 1536px;
+  /* margin-left: 10px; */
+  /* margin-left: 30px; */
+  background-image: url("./images/home_bg.png");
+  background-size: cover;
+}
+
+.btns form {
+  position: absolute;
+  top: 540px;
+  left: 50px;
+  display: flex;
+  flex-direction: column;
+}
+.btns button {
+  padding: 5px;
+  font-size: 25px;
+  font-weight: bolder;
+  width: 200px;
+  margin: 20px;
+  border-radius: 13px;
+  background-color: rgba(171, 255, 255, 255);
+  border: none;
+  transition: 1s;
+}
+
+.btns button:hover {
+  transform: scale(1.1);
+}
+
+/*----------------------------------------ALL LINKS CSS ----------------------------------*/
+/* active / non active handling done here */
+
+/*-------------------------------------------LOGIN PAGE----------------------------------*/
+.login {
+  height: 689px;
+  width: 1536px;
+  background-image: url("./images/login_bg.png");
+  background-size: cover;
+}
+
+.loginform {
+  text-align: center;
+  color: white;
+  position: absolute;
+  opacity: 0.65;
+  left: 520px;
+  top: 220px;
+  background-color: black;
+  border-radius: 12px;
+  width: 30%;
+  font-size: 27px;
+  font-weight: bolder;
+  padding-bottom: 30px;
+}
+
+.loginform input {
+  margin-top: 10px;
+  font-size: 27px;
+  border-radius: 12px;
+  filter: brightness(100);
+  text-align: center;
+}
+
+.loginform h2 {
+  filter: brightness(120);
+}
+
+.loginform button {
+  width: 200px;
+  padding: 15px;
+  border-radius: 13px;
+  border: none;
+  color: white;
+  background-color: black;
+  font-size: 25px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.loginform button:hover {
+  border: 3px solid white;
+}
+
+/*-----------------------------------------REGISTER PAGE-----------------------------------------*/
+.register {
+  height: 680px;
+  width: 1518px;
+  background-image: url("./images/login_bg.png");
+  background-size: cover;
+}
+
+.regform {
+  color: white;
+  position: absolute;
+  opacity: 0.65;
+  left: 520px;
+  top: 210px;
+  background-color: black;
+  border-radius: 12px;
+  width: 30%;
+  font-size: 27px;
+  font-weight: bolder;
+  padding-bottom: 30px;
+}
+
+.regform input {
+  margin-top: 10px;
+  font-size: 20px;
+  border-radius: 12px;
+  filter: brightness(100);
+  text-align: center;
+  font-weight: 900;
+}
+
+.regform h2 {
+  font-size: 30px;
+}
+.regform label {
+  font-size: 23px;
+}
+
+.regform button {
+  width: 200px;
+  padding: 15px;
+  border-radius: 13px;
+  border: none;
+  color: white;
+  background-color: black;
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 20px;
+  transition: 0.45s;
+}
+
+.regform button:hover {
+  border: 3px solid white;
+}
+
+/*-----------------------------------------CONTRIBUTE PAGE----------------------------------------*/
+.contri {
+  height: 680px;
+  width: 1518px;
+  background-image: url("./images/vis.jpeg");
+  background-size: cover;
+  color: white;
+  text-align: left;
+}
+
+.contri .main {
+  position: absolute;
+  margin-left: 30px;
+  margin-top: 100px;
+}
+
+/*------------------------------------------ABOUT PAGE-----------------------------------------*/
+.contri {
+  background-image: url("./images/vis.jpeg");
+}
+
+/*------------------------------------------VISION PAGE----------------------------------------*/
+.contri {
+  background-image: url("./images/vis.jpeg");
+}
+
+/*------------------------------------------HELP PAGE------------------------------------------*/
+.contri {
+  background-image: url("./images/vis.jpeg");
+}
+
+/*------------------------------------------MENU PAGE-------------------------------------------*/
+
+.menuWrapper {
+  height: 688px;
+  width: 1536px;
+  background-image: url("./images/menu.JPG");
+  background-size: cover;
+  color: white;
+  filter: brightness(1.8);
+}
+.menuWrapper a {
+  text-decoration: none;
+  color: white;
+  transition: 0.7s;
+}
+.menuWrapper a:hover {
+  color: black;
+}
+.menu {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  margin-left: 370px;
+  margin-top: 30px;
+}
+
+.box {
+  height: 280px;
+  width: 300px;
+  background-color: rgb(109, 108, 110);
+  margin: 20px;
+  opacity: 0.3;
+  border-radius: 14px;
+  margin-right: 100px;
+  font-size: 10px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+/*------------------------------------Attendence PAGE-------------------------------------*/
+.atten {
+  color: white;
+  background-color: black;
+  height: 688px;
+  width: 1536px;
+  border-top: white dotted 1px;
+}
+
+.atten .wrapper {
+  display: flex;
+  flex-direction: row;
+  margin-left: 100px;
+}
+
+.face {
+  height: 500px;
+  width: 600px;
+  background-color: black;
+  margin-right: 100px;
+}
+
+.location {
+  height: 500px;
+  width: 600px;
+  background-color: black;
+}
+
+.div1 {
+  margin-right: 100px;
+}
+.div1 h1 {
+  margin-right: 170px;
+  color: white;
+}
+
+.attn-sub-btn {
+  border: white solid 3px;
+  width: 300px;
+  font-size: 24px;
+  position: absolute;
+  left: 280px;
+  bottom: 30px;
+  border-radius: 17px;
+  transition: 0.35s;
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+
+.attn-sub-btn:hover {
+  color: black;
+  background-color: white;
+  border: grey solid 5px;
+  transform: scale(1.12);
+}
+
+.btn-location {
+  border: none;
+  width: 200px;
+  font-size: 24px;
+  position: absolute;
+  left: 630px;
+  bottom: 250px;
+  border-radius: 17px;
+}
+.btn-location:hover {
+  transform: scale(1.1);
+}
+
+#map {
+  height: 400px;
+  width: 200px;
+  margin-top: 0px;
+}
+video {
+  width: 600px;
+  height: 500px;
+}
+
+.map button {
+  border: white solid 3px;
+  width: 400px;
+  font-size: 24px;
+  position: absolute;
+  left: 900px;
+  bottom: 30px;
+  border-radius: 17px;
+  transition: 0.35s;
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+
+.map button:hover {
+  color: black;
+  background-color: white;
+  border: grey solid 5px;
+  transform: scale(1.1);
+}
+.div2 h1 {
+  color: white;
+}
+/*-------------------FACE_CAM AND LOCATION-----------------*/
+
+/*---------------------ERROR PAGE-------------------------*/
+#err-btn {
+  width: 350px;
+  border-radius: 12px;
+  border: none;
+  background-color: blue;
+  padding: 15px;
+  color: white;
+  font-size: 25px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.err-head {
+  font-size: 250px;
+  filter: brightness(0.3);
+  margin-top: 80px;
+  opacity: 0.5;
+}
+
+.err-para {
+  font-size: 100px;
+  position: absolute;
+  top: 30px;
+  font-weight: 800;
+}
