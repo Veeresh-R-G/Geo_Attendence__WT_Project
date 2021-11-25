@@ -18,5 +18,7 @@
 ##### 3. Get the response of Mongoose after the action User logs in from the Login Page
 ##### 4. Maybe Update the Backend(server) Files ( to keep it standardised)
 ##### 5. Store all components in src/component Files (lol)
-##### 6. Starting Page still pending(Secret Page)
-##### 7. Ashte Done ... then we flex the project and chillllllllllllllllllll(Shit Sorry chill is enough Coz its PES🤣🤣🤣😂😂😂😂😂🤣🤣🤣👀)
+##### 6. Add Picture to the Navbar Component and Symbols to required Pages
+##### 7. Starting Page still pending(Secret Page)
+##### 8. Ashte Done ... then we flex the project and chillllllllllllllllllll(Shit Sorry chill is enough Coz its PES🤣🤣🤣😂😂😂😂😂🤣🤣🤣👀)
+
