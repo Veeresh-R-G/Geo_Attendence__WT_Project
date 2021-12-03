@@ -13,7 +13,7 @@
 
 
 ##### TO DO:
-##### 1. Load the Google Map component (Without any errors 😂😂😂)
+##### 1. Load the Google Map component (Without any errors 😂😂😂) --> Done this
 ##### 2. Update the patch Request to the DB
 ##### 3. Get the response of Mongoose after the action User logs in from the Login Page
 ##### 4. Maybe Update the Backend(server) Files ( to keep it standardised)
