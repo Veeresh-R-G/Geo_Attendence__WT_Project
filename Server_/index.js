@@ -1,7 +1,7 @@
 /*
                     UE20CS204 ASSIGNMENT -- GEO lOCATION 
-                    MARKS ATTENDANCE BASED ON YOUR GEOGRAPHICAL LOCATION Co-Ordinates
-                    FOR HOSTEL PEOPLE ONLY
+                    MARKS ATTENDANCE BASED ON YOUR GEOGRAPHICAL CO-ORDINATES
+                    BEST USE : HOSTEL PUROSES
 */
 
 
