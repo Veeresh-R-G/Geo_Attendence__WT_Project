@@ -12,8 +12,7 @@
 ##### 2. Using yarn --->`yarn add`
 
 
-##### TO DO:
-##### 1. Load the Google Map component (Without any errors 😂😂😂) --> Done this.
-##### 2. Update the patch Request to the DB --> done this different Way --> need to do it again ( refactoring required )
-##### 5. Need of a ML model in Javascript to recognise face required -------> Major Improvement (if done)! !  
+<!-- ##### TO DO:
+##### 1. Load the Google Map component (Without any errors 😂😂😂)  Done this.
+<!-- ##### 5. Need of a ML model in Javascript to recognise face required ------- Major Improvement (if done)! ! ->
 
