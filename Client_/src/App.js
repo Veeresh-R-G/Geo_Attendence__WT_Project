@@ -43,9 +43,9 @@ function App() {
             <Route exact path="/attendence">
               <Atten />
             </Route>
-            <Route exact path="/test">
-              <Test />
-            </Route>
+//             <Route exact path="/test">
+//               <Test />
+//             </Route>
             <Route exact path="/auth">
               <Auth />
             </Route>
