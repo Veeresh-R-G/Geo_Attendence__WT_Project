@@ -4,7 +4,7 @@
 ### DownLoad the Files and run the following command to download all the required dependencies (to add the package.json) file
 
 ##### If you are using NPM --> `npm i`
-##### If you are using yarn ❤️--> `yarn add`
+##### If you are using yarn ❤️--> `yarn install`
 
 
 ##### To run the files :
